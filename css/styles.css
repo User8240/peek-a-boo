@@ -10,3 +10,16 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+#secret-show {
+  display: none;
+}
+
+.clicky {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clicky:hover {
+  text-decoration: underline;
+}
